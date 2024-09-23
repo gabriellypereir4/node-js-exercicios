@@ -30,3 +30,8 @@ Subindo atualização
 ```bash
     git push origin main
 ```
+
+Passos
+1. git add arquivo_alterado.js (adicionar arquivo alterado)
+2. git commit -m "mensagem" (fazer o commit)
+3. git push origin main (subir o arquivo)
